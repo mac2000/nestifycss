@@ -1,10 +1,10 @@
 CACHE MANIFEST
-# 2012-03-28:v2.3
+# 2012-07-20:v2.4
 index.html
-http://twitter.github.com/bootstrap/assets/css/bootstrap.css
+http://current.bootstrapcdn.com/bootstrap-v204/css/bootstrap-combined.min.css
 http://yandex.st/highlightjs/6.1/styles/github.min.css
 
-http://code.jquery.com/jquery-latest.min.js
+http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
 http://yandex.st/highlightjs/6.1/highlight.js
 http://yandex.st/highlightjs/6.1/languages/css.js
 http://www.senchalabs.org/cssbeautify/cssbeautify.js
